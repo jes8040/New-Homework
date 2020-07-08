@@ -3,4 +3,6 @@ MAINTAINER JesG jesamygonzales@gmail.com
 
 RUN apt-get -y update
 RUN apt-get -y upgrade
+WORKDIR / 
+COPY helloworld.sh
 
