@@ -2,5 +2,5 @@
 
 while true; do
     printf "Hello World!\n"
-    sleep 720
+    sleep 30
 done
