@@ -1,6 +1,6 @@
 #bin/bash
 
-printf "Hello World!\n"
 while true; do
-    sleep 10000
+    printf "Hello World!\n"
+    sleep 10
 done
